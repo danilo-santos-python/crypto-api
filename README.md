@@ -56,6 +56,7 @@ crypto-api/
 ├── crypto_api.py        # Código responsável pela integração com a API
 ├── main.py              # Código principal da interface do app
 ├── requirements.txt     # Dependências Python do projeto
+├── preview.png          # Imagem do app aberto
 ├── LICENSE              # Licença MIT
 └── README.md            # Documentação do aplicativo
 ```
