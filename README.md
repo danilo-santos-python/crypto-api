@@ -67,7 +67,7 @@ crypto-api/
 
 Clone o repositório:  
 ```bash
-git clone https://github.com/danilo-santos-python/crypto-api.git
+git clone https://github.com/danilo-santosdev/crypto-api.git
 ```
 
 Acesse a pasta do projeto:  
@@ -105,8 +105,8 @@ Este projeto é open source e pode ser utilizado livremente para fins educaciona
 ## 👨‍💻 Autor
 
 **Danilo Santos**  
-🐙 GitHub: https://github.com/danilo-santos-python  
-🌐 Repositório: https://github.com/danilo-santos-python/crypto-api
+🐙 GitHub: https://github.com/danilo-santosdev
+🌐 Repositório: https://github.com/danilo-santosdev/crypto-api
 
 ------------------------------------------------------------------------
 
